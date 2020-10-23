@@ -11,3 +11,6 @@ Fetches answers for an **EDPuzzle** video so you don't have to watch the video.
 3. In your `EPWrecker` src directory make a file called `cookie.txt` and paste in your cookie. 
 
 4. Ensure you have all the NPM modules installed by running `npm install` in the `EPWrecker` src directory, then type `node .` to run it. Paste in your EDPuzzle video ID, which [can be found in the URL](assets/videoid.png).
+
+## Note
+Ignore the awful code lol
