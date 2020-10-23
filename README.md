@@ -8,6 +8,6 @@ Fetches answers for an **EDPuzzle** video so you don't have to watch the video.
 
 2. Open the extension in EDPuzzle when you're logged in and look for a cookie called `token`, and copy the value of it. 
 
-3. In your EPWrecker directory make a file called `cookie.txt` and paste in your cookie. 
+3. In your `EPWrecker` src directory make a file called `cookie.txt` and paste in your cookie. 
 
-4. Ensure you have all the NPM modules installed by running `npm install` in the `EPWrecker` directory, then type `node .` to run it. Paste in your EDPuzzle video ID, which [can be found in the URL](assets/videoid.png).
+4. Ensure you have all the NPM modules installed by running `npm install` in the `EPWrecker` src directory, then type `node .` to run it. Paste in your EDPuzzle video ID, which [can be found in the URL](assets/videoid.png).
