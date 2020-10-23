@@ -1,4 +1,6 @@
 # ![Image](assets/banner.png)
+![GitHub last commit](https://img.shields.io/github/last-commit/flyxn/EPWrecker?color=333333)
+
 
 ## What's this?
 Fetches answers for an **EDPuzzle** video so you don't have to watch the video.
