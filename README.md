@@ -1,7 +1,7 @@
 # EPWrecker
 ![GitHub last commit](https://img.shields.io/github/last-commit/flyxn/EPWrecker?color=333333)
 
-**EDPUZZLE HAS UPDATED THEIR API THAT EPWRECKER USES TO FETCH ANSWERS. EPWRECKER NO LONGER WORKS. WORKING ON FIND A BYPASS.**
+**EDPUZZLE HAS UPDATED THEIR API THAT EPWRECKER USES TO FETCH ANSWERS. EPWRECKER NO LONGER WORKS. WORKING ON FINDING A BYPASS.**
 
 ## What's this?
 Fetches answers for an **EDPuzzle** video so you don't have to watch the video.
